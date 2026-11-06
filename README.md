@@ -1,4 +1,3 @@
-# gdc-watch-faces
 # GDC Watch Faces
 
 **Watch faces for people living with diabetes. Designed for a clear, quick glance.**
