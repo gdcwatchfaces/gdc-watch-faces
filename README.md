@@ -20,4 +20,4 @@ Available displays depend on the watch face, complication slots, and configured 
 
 ---
 
-*This repository is a directory for the GDC Watch Faces collection. Downloads and purchases are available through Google Play.*
+*This repository is a directory for the GDC Watch Faces collection. Downloads are available through Google Play.*
